@@ -1,4 +1,4 @@
-# GolangRofl
-Just boring
+# GolangProjects
+
 
 Изучение Golang в свободное время
